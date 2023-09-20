@@ -14,3 +14,8 @@ this is for me to check and resolve conflicts!
 
 
 yayyyy
+
+developing a conflict example
+this is line 13
+
+hello
