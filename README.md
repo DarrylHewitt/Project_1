@@ -11,3 +11,5 @@ Adding few more lines VScode terminal
 
 developing a conflict example
 this is line 13
+
+hello
