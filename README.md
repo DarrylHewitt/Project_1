@@ -9,6 +9,12 @@ Testing out this Readme again
 
 Adding few more lines VScode terminal
 
+i am now writing random stuff here
+this is for me to check and resolve conflicts!
+
+
+yayyyy
+
 developing a conflict example
 this is line 13
 
