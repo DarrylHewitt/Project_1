@@ -8,7 +8,12 @@ By Kaj Kabilan, Darryl Hewitt, Mushfiqur Rahman and Suwaiba Idris
 ## Purpose of the Project
 Examine how different crimes vary throughout the year and determine seasonal patterns in crime types. Focus will be on time-series analysis, seasonal decomposition and data visualisation. The data we have from https://data.police.uk/ is of street crimes hence we are looking only at those crimes.
 
-### Reseach Question 1 : What is the correlation between crime count and the Index of Mutiple Deprevation (IMD) score? How does the type of crime relate to the IMD score?
+### Research Question 1 : What are the street crime types that occur in Birmingham? Where are the local police stations situated?
+
+Using Police data we were able to extract the different types of street crimes as well as the crime counts that occur in Birmigham.
+Below is a 
+
+### Reseach Question 2 :What is the correlation between crime count and the Index of Multiple Deprivation (IMD) score? How does the type of crime relate to the IMD score?
 Hypothesis: There is a significant correlation between crime count and the Index of Multiple Deprivation (IMD) score in Birmingham.
 
 ![Alt text](image-2.png)
@@ -57,7 +62,7 @@ In this plot we see a weak negative correlation between the bycicle theft and sh
 
 
 
-### Research Question 2 : Where are the top 10 locations with the highest crime counts and what are their coressponding IMD scores? Conversely, where are top 10 locations with the least crime counts and what are their IMD scores?
+
 
 
 
