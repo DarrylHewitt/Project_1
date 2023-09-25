@@ -13,7 +13,8 @@ Examine how different crimes vary throughout the year and determine seasonal pat
 Using Police data we were able to extract the different types of street crimes as well as the crime counts that occur in Birmigham.
 Below is a 
 
-### Reseach Question 2 :What is the correlation between crime count and the Index of Multiple Deprivation (IMD) score? How does the type of crime relate to the IMD score?
+
+### Reseach Question 2 : What is the correlation between crime count and the Index of Multiple Deprivation (IMD) score? How does the type of crime relate to the IMD score?
 Hypothesis: There is a significant correlation between crime count and the Index of Multiple Deprivation (IMD) score in Birmingham.
 
 ![Alt text](image-2.png)
@@ -82,3 +83,24 @@ With the seasonal changes in the country every year we wanted to look into wheth
   
   
 
+=======
+
+Test example
+
+Making some changes to this in a different Branch
+
+Testing out this Readme again
+
+Adding few more lines VScode terminal
+
+i am now writing random stuff here
+this is for me to check and resolve conflicts!
+
+
+yayyyy
+
+developing a conflict example
+this is line 13
+
+hello
+>>>>>>> 741f71d968752ff9b0d967c6851cd57c4038e9ef
