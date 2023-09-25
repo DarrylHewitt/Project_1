@@ -106,16 +106,16 @@ The comparative bar chart above shows that, over the three years, summer has mor
 
 ## Conclusion
 
-Birmingham has 29 Police Stations accross the city.The police data shows a record of 14 different street crime types.
+Birmingham has 30 Police Stations accross the city.The police data shows a record of 14 different street crime types.
 
-Our findings show that IMD scores alone can not be used to determine the crime rate in an area, other factors factors such as proximity to the city centre and and type of crime play a role as well. 
+Our findings show that IMD scores alone can not be used to determine the crime counts in an area, other factors such as proximity to the city centre and type of crime play a role as well. 
 The city centre of Birmingham and neighouring inner-city suburbs claim the overwhelming majority of crimes committed.
 
 Several LSOAs in the top 20 are located away from the city centre although these locations are in close proximity to town centres. The IMD score for the top-20 ranges from 20 - 60. Therefore, it is clear that IMD alone does not account entirely for crime counts.
 
 Violence and sexual offences make up the majority of crimes committed through out the year.There is no significant variation in crime count across crime types over the three years.
 
-The summer months experience a slightly higher rate of crimes than winter.
+The summer months experience a slightly higher crime count than winter.
 
 ## Implications
 
