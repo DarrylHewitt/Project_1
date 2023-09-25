@@ -10,8 +10,18 @@ Examine how different crimes vary throughout the year and determine seasonal pat
 
 ### Research Question 1 : What are the street crime types that occur in Birmingham? Where are the local police stations situated?
 
-Using Police data we were able to extract the different types of street crimes as well as the crime counts that occur in Birmigham.
-Below is a 
+![Alt text](image.png)
+
+Using Police data we were able to extract the different types of street crimes as well as the crime counts that occurred in Birmigham over the 3 year period as seen above.
+The graphs show a rise in crime rates in the month of July and a decline in the month of February accross the years. The graph also shows a decline in crime rate in the summer of 2023.
+
+![Alt text](image-1.png)
+
+In the above bar graph shows crime count in Birmingham by type. We notice the majority crime in Birmingham is violence and sexual offences.
+
+![Alt text](image-2.png)
+
+The pie chart above displays the same information and it shows at 42.7% the major crime is violence and sexual offence and the least occuring crime is bycicle theft.
 
 
 ### Reseach Question 2 : What is the correlation between crime count and the Index of Multiple Deprivation (IMD) score? How does the type of crime relate to the IMD score?
@@ -60,18 +70,8 @@ The scatter plots above show very weak correlation between the crime counts of v
 In this plot we see a weak negative correlation between the bycicle theft and shop lifting  in the LSOAs of Birmingham and  the IMD scores. The negative correlation in shop lifting could be explained by the distribution of shops in the city, where they tend to be more concentrated in the city centre area where the IMD scores are moderate.
 
 
+### Research Question 3 : What are the top 10 locations with the highest crime counts, and what are their corresponding IMD scores? Conversely, what are the 10 locations with the lowest crime counts, and what are their IMD scores?
 
-
-
-
-
-
-
-
-
-With the seasonal changes in the country every year we wanted to look into whether there is any pattern to crime rate and types of crimes in the different seasons
-
-### Research Question 3 : Are there any spatial correlations between crime rates and police station locations in Birmingham?
 
 ### Research Question 4 : Are there any trends in crime vs demographic factors?
 
