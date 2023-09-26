@@ -10,7 +10,7 @@ Examine how different crimes vary throughout the year and determine seasonal pat
 
 ### Research Question 1 : What are the street crime types that occur in Birmingham? Where are the local police stations situated?
 
-![image](presentation\images_ppt\image-26.png)
+![image](blob\main\presentation\images_ppt\image-26.png)
 
 The table above shows the Police Stations in Birmingham and their locations (longitude and latitude)
 
