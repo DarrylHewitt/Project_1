@@ -7,6 +7,8 @@ By Kaj Kabilan, Darryl Hewitt, Mushfiqur Rahman and Suwaiba Idris
 ## Purpose of the Project
 Examine how different crimes vary throughout the year and determine seasonal patterns in crime types. Focus will be on time-series analysis, seasonal decomposition and data visualisation. The data we have from https://data.police.uk/ is of street crimes hence we are looking only at those crimes.
 
+---
+
 ### Research Question 1 : What are the street crime types that occur in Birmingham? Where are the local police stations situated?
 
 ![image](https://github.com/DarrylHewitt/Project_1/blob/main/presentation/images_ppt/image-26.png?raw=true)
@@ -25,10 +27,11 @@ The graph below show a rise in crime rates in the month of July and a decline in
 
 The above bar graph displays crime count in Birmingham by type. We notice the majority crime in Birmingham is violence and sexual offences.
 
-![Alt text](phttps://github.com/DarrylHewitt/Project_1/blob/main/presentation/images_ppt/image-20.png?raw=true)
+![Alt text](https://github.com/DarrylHewitt/Project_1/blob/main/presentation/images_ppt/image-20.png?raw=true)
 
 The pie chart above displays the same information and it shows at 42.7% the major crime is violence and sexual offence and the least occuring crime is bycicle theft.
 
+---
 
 ### Reseach Question 2 : What is the correlation between crime count and the Index of Multiple Deprivation (IMD) score? How does the type of crime relate to the IMD score?
 Hypothesis: There is a significant correlation between crime count and the Index of Multiple Deprivation (IMD) score in Birmingham.
@@ -75,6 +78,7 @@ The scatter plots above show very weak correlation between the crime counts of v
 
 In this plot we see a weak negative correlation between the bycicle theft and shop lifting  in the LSOAs of Birmingham and  the IMD scores. The negative correlation in shop lifting could be explained by the distribution of shops in the city, where they tend to be more concentrated in the city centre area where the IMD scores are moderate.
 
+---
 
 ### Research Question 3 : What are the top 20 locations with the highest crime counts, and what are their corresponding IMD scores? Conversely, what are the 20 locations with the lowest crime counts, and what are their IMD scores?
 ![Alt text](https://github.com/DarrylHewitt/Project_1/blob/main/presentation/images_ppt/image-22.png?raw=true)
@@ -91,6 +95,7 @@ North Birmingham, Sutton Coldfield and Four Oak recordede the least crimes.
 Several LSOAs in the top 20 are located some distance from the centre. These locations are in close proximity to town centres, and 096A has a thriving student community.
 The IMD score for the bottom-20 ranges from 3 - 20. There is less disparity in IMD score amongst the bottom 20 than there is among the top 20.
 
+---
 
 ### Research Question 4 : Do crime rates exhibit seasonality, with lower street crime rates during winter months (October to March) compared to summer months (April to September)?
 
@@ -106,6 +111,8 @@ Both the summer and winter months' crime counts show difference in the pattern o
 
 The comparative bar chart above shows that, over the three years, summer has more crime than winter with the exception of burglary. Further analysis could determine whether the higher burglary rate in the winter could be due to longer nights.
 
+---
+
 ## Conclusion
 
 Birmingham has 30 Police Stations accross the city.The police data shows a record of 14 different street crime types.
@@ -118,6 +125,8 @@ Several LSOAs in the top 20 are located away from the city centre although these
 Violence and sexual offences make up the majority of crimes committed through out the year.There is no significant variation in crime count across crime types over the three years.
 
 The summer months experience a slightly higher crime count than winter.
+
+---
 
 ## Implications
 
