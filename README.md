@@ -1,7 +1,7 @@
 # Project_1
-Bootcamp: Project 1
-# PROJECT TITLE: : Exploring Trends in Crime Data in Birmingham between Aug 2020 – Jul 2023
 
+# PROJECT TITLE: : Exploring Trends in Crime Data in Birmingham between Aug 2020 – Jul 2023
+---
 By Kaj Kabilan, Darryl Hewitt, Mushfiqur Rahman and Suwaiba Idris
 
 ## Purpose of the Project
